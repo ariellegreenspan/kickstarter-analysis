@@ -11,7 +11,7 @@
           ![Theater Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png) 
 
   In order to perform my second analysis, which looked at play Kickstarter outcomes based on financial goal, I utilized the CountIfs function in Excel.This was used to filter the data from the "Kickstarter_Challenge.xlsx" sheet into columns depicting the number of successful goals, the number of failed goals, and the number of cancelled goals. Once I had this data, I was able to calculate the percentage of campaigns which were successful, failed, or cancelled. I then highlighted all of this data and created a line chart to depict the outcomes based on the financial goal. The chart thaat I made is depcicted here: 
-                                      ![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
+           ![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
   
   While doing this analysis, I struggled with filtering the data correctly. I initially looked at the role of successful pledges in outcome success or failure, and then relaized later that I should have filtered by goals values. Once I realized my error, I was able to correct my dataset. 
 
